@@ -1,4 +1,4 @@
-# webscrapping_python_amazon_product_info
+# Webscrapping using Python
 
 ## Description
 This repository helps you to create webscrapping project using Python and Beautifullsoup. This project
